@@ -34,14 +34,14 @@ Insert the `name` variable somewhere withing the `<application>` tag like this. 
 ```
 <applicatiomn ...
   android:name=".StarterApplication"
-  ... />
+  ... >
 ```
 Insert the `name` & `label` variables somewhere witin the `<activity>` tag like this:
 ```
 <activity ...
   android:name=".MainActivity"
   android:label="@string/app_name"
-  ... />
+  ... >
 ```
 Insert the following `meta` tags into the `<application>` block. These will pick up the definitions in `strings.xml`:
 ```
