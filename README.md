@@ -53,7 +53,7 @@ Insert the following `meta` tags into the `<application>` block. These will pick
   android:value="@string/parse_client_key" />
 ```
 
-## 5 Edit build.gradle (modeule)
+## 5 Edit build.gradle (module)
 
 Insert the following into the `dependencies { ... }` block:
 ```
