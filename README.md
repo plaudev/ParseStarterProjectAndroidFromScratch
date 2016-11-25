@@ -1,4 +1,4 @@
-# Parse Starter Project Android From Scratch
+# Parse Starter Project for Android From Scratch
 
 The following steps will enable you to create a Parse starter project from scratch for Android. Instructions for creating a Parse starter project for [iOS (and Heroku) are here](https://github.com/plaudev/ParseStarterProjectFromScratch). For setting up your custom Parse server & push notification on Heroku, [see here](https://github.com/plaudev/ParseHerokuPushNotification). I will leave the server side stuff largely out in this post. While written with hosting Parse on the cloud in mind, these instructions should work with a local set up as well.
 
